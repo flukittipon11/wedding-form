@@ -10,7 +10,6 @@ function App() {
     <div className="App">
       {/* <Form /> */}
       <Toaster position="top-center" reverseOrder={false} />
-      <FireworkAlert />
       <WishForm />
     </div>
   );
